@@ -4,7 +4,9 @@
 ---
 
 ## social platforms
-<img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge&logo=appveyor" />
+<a href = "https://leetcode.com/dcVoldemort/" >
+    <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge&logo=appveyor"/>
+</a>
 
 ## languges
 
