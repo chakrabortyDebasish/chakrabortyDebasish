@@ -1,3 +1,3 @@
-<img src="/img/profileBanner.jpeg" alt="banner-image" styele = "height : 30px"/>
+<img src="img/profileBanner.jpeg" alt="banner-image"/>
 
 # Hello, I'm DEBAISH CHAKRABORTY [chakrabortyDebasish]
