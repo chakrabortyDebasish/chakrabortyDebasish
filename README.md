@@ -12,10 +12,21 @@
 </a>
 
 <a href = "https://www.linkedin.com/in/chakrabortydebasish/">
-    <img alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logocolor=white&style=for-the-badge&logo=appveyor">
+    <img alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logocolor=white&?style=social&logo=appveyor">
 </a>
 
-## languges
+## Languges
+
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
+<img alt = "" src = "https://img.shields.io/badge/">
 
 ## tools
 ---
