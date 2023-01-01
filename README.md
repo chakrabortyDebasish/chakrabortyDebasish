@@ -4,15 +4,15 @@
 
 ## Social Platforms
 <a href = "https://leetcode.com/dcVoldemort/" >
-    <img alt = "leetcode" src = "https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge&logo=appveyor"/>
+    <img alt = "leetcode" src = "https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href = "https://www.hackerrank.com/dcraptor">
-    <img alt = "hacker-rank" src = "https://img.shields.io/badge/Hacker-Rank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge&logo=appveyor">
+    <img alt = "hacker-rank" src = "https://img.shields.io/badge/Hacker-Rank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge">
 </a>
 
 <a href = "https://www.linkedin.com/in/chakrabortydebasish/">
-    <img alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logocolor=white&?style=social&logo=appveyor">
+    <img alt = "linkedin" src = "https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logocolor=white&style=for-the-badge">
 </a>
 
 ## Languges
