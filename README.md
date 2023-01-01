@@ -51,12 +51,9 @@
     <img alt = "my-sql" src = "https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge">
 </a>
 
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=ffff99&custom_title=Top+Languages&show_icons=true&theme=onedark" />
+
 ## Technologies
 
 ---
-
-## GitHub Stats
-
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=ffff99&custom_title=Debasish+Chakraborty's+GitHub+Stats&show_icons=true&theme=onedark" />
-
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=ffff99&custom_title=Debasish+Chakraborty's+GitHub+Stats&show_icons=true&theme=onedark" />
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=ffff99&custom_title=GitHub+Stats&show_icons=true&theme=onedark" />
