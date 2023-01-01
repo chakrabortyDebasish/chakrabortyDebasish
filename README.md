@@ -8,7 +8,7 @@
 </a>
 
 <a href = "https://www.hackerrank.com/dcraptor">
-    <img alt = "hacker-rank" src = "https://img.shields.io/badge/Hacker-Rank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge">
+    <img alt = "hacker-rank" src = "https://img.shields.io/badge/Hacker Rank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge">
 </a>
 
 <a href = "https://www.linkedin.com/in/chakrabortydebasish/">
