@@ -17,38 +17,39 @@
 
 ## Languges
 
-<a href="">
+<a href="https://github.com/chakrabortyDebasish">
     <img alt = "java" src = "https://img.shields.io/badge/Java-FB542B?logo=Java&logoColor=white&style=for-the-badge">
 </a>
 
-<a href="">
+<a href="https://github.com/chakrabortyDebasish">
     <img alt = "python" src = "https://img.shields.io/badge/Python-3776AB?ogo=Python&logoColor=white&style=for-the-badge">
 </a>
 
-<a href="">
+<a href="https://github.com/chakrabortyDebasish">
     <img alt = "c++" src = "https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=for-the-badge">
 </a>
 
-<a href="">
+<a href="https://github.com/chakrabortyDebasish">
     <img alt = "c" src = "https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge">
 </a>
 
+<br>
 
-
-
+<a href="https://github.com/chakrabortyDebasish">
+    <img alt = "html" src = "https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge">
 </a>
 
-<img alt = "html" src = "https://img.shields.io/badge/">
+<a href="https://github.com/chakrabortyDebasish">
+    <img alt = "css" src = "https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge">
+</a>
 
-<img alt = "css" src = "https://img.shields.io/badge/">
+<a href="https://github.com/chakrabortyDebasish">
+    <img alt = "js" src = "https://img.shields.io/badge/Java Script-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
+</a>
 
-<img alt = "js" src = "https://img.shields.io/badge/">
-
-<img alt = "sql" src = "https://img.shields.io/badge/">
-
-<img alt = "" src = "https://img.shields.io/badge/">
-
-<img alt = "" src = "https://img.shields.io/badge/">
+<a href="https://github.com/chakrabortyDebasish">
+    <img alt = "my-sql" src = "https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge">
+</a>
 
 ## tools
 ---
