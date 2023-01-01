@@ -1,6 +1,6 @@
 # Hello, Its Ghost welcome to my GitHub page
 
-### I am Debasish Chakraborty 👋, I do a lot of thing which some of you may find interesting.
+###### I am Debasish Chakraborty 👋, I do a lot of thing which some of you may find interesting.
 
 ## Social Platforms
 <a href = "https://leetcode.com/dcVoldemort/" >
@@ -51,5 +51,10 @@
     <img alt = "my-sql" src = "https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge">
 </a>
 
-## tools
+## Technologies
+
 ---
+
+## GitHub Stats
+
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0c2233&custom_title=Debasish+Chakraborty's+GitHub+Stats&show_icon=true" />
