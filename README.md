@@ -17,15 +17,24 @@
 
 ## Languges
 
+<img alt = "java" src = "https://img.shields.io/badge/Java-FB542B">
+
+<img alt = "c" src = "https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge">
+
+<img alt = "cpp" src = "https://img.shields.io/badge/">
+
+<img alt = "python" src = "https://img.shields.io/badge/">
+
+<img alt = "html" src = "https://img.shields.io/badge/">
+
+<img alt = "css" src = "https://img.shields.io/badge/">
+
+<img alt = "js" src = "https://img.shields.io/badge/">
+
+<img alt = "sql" src = "https://img.shields.io/badge/">
+
 <img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
-<img alt = "" src = "https://img.shields.io/badge/">
+
 <img alt = "" src = "https://img.shields.io/badge/">
 
 ## tools
