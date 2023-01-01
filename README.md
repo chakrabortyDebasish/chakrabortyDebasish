@@ -57,4 +57,4 @@
 
 ## GitHub Stats
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=ffff99&custom_title=Debasish+Chakraborty's+GitHub+Stats&show_icon=true&theme=onedark" />
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyDebasish&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=ffff99&custom_title=Debasish+Chakraborty's+GitHub+Stats&show_icons=true&theme=onedark" />
