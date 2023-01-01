@@ -17,13 +17,16 @@
 
 ## Languges
 
-<img alt = "java" src = "https://img.shields.io/badge/Java-FB542B?logo=Java&logoColor=white&style=for-the-badge">
+<a href "">
+    <img alt = "java" src = "https://img.shields.io/badge/Java-FB542B?logo=Java&logoColor=white&style=for-the-badge">
 
-<img alt = "c" src = "https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge">
+<img alt = "python" src = "https://img.shields.io/badge/Python-3776AB?ogo=Python&logoColor=white&style=for-the-badge">
 
 <img alt = "c++" src = "https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=for-the-badge">
 
-<img alt = "python" src = "https://img.shields.io/badge/Python-3776AB?ogo=Python&logoColor=white&style=for-the-badge">
+<img alt = "c" src = "https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge">
+
+</a>
 
 <img alt = "html" src = "https://img.shields.io/badge/">
 
