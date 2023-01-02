@@ -1,6 +1,6 @@
 # Hello, Its Ghost welcome to my GitHub page
 
-[![Ghost Cat](/assets/octocat.png)](https://github.com/chakrabortyDebasish)
+![Ghost Cat](/assets/octocat.png)
 
 ###### I am Debasish Chakraborty 👋, I do a lot of thing which some of you may find interesting.
 
