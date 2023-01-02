@@ -1,8 +1,6 @@
 # Hello, Its Ghost welcome to my GitHub page
 
-<p>
-    <img title = "Ghost-Cat" alt = "octacat-image" src = "octacat.png" width = "220" height = "220" />
-</p>
+![Ghost Cat](/octocat.png)
 
 ###### I am Debasish Chakraborty 👋, I do a lot of thing which some of you may find interesting.
 
