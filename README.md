@@ -16,7 +16,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
 ## 🛠️ Skills & Technologies
 <table align="center">
   <tr>
-    <td><strong> 💻 Programming</strong></td>
+    <td><strong>💻 Programming</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/SQL-336791?logo=PostgreSQL&logoColor=white&style=for-the-badge"/>
@@ -26,7 +26,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 
   <tr>
-    <td><strong> 📊 Big Data</strong></td>
+    <td><strong>🧠 Big Data</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=Apache-Spark&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=Apache-Kafka&logoColor=white&style=for-the-badge"/>
@@ -36,7 +36,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 
   <tr>
-    <td><strong> 🔄 ETL</strong></td>
+    <td><strong>📦 ETL</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=Apache-Airflow&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=for-the-badge"/>
@@ -45,7 +45,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 
   <tr>
-    <td><strong> ☁️ Cloud Platforms</strong></td>
+    <td><strong>☁️ Cloud Platforms</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=Google-Cloud&logoColor=white&style=for-the-badge"/>
@@ -53,7 +53,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 
   <tr>
-    <td><strong> ⚙️ DevOps & Tooling</strong></td>
+    <td><strong>⚙️ DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>
@@ -64,7 +64,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 
   <tr>
-    <td><strong> 🗄️ Databases</strong></td>
+    <td><strong>🗄️ Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=Google-BigQuery&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=Snowflake&logoColor=white&style=for-the-badge"/>
@@ -76,7 +76,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 
   <tr>
-    <td><strong> 🧠 Soft Skills</strong></td>
+    <td><strong> 🤝 Soft Skills</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Scalable_Architecture-4A4A4A?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Problem_Solving-4A4A4A?style=for-the-badge"/>
@@ -85,7 +85,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 </table>
 
-## Stats !!
+## 📊 Stats !!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&layout=compact&theme=transparent)](https://github.com/chakrabortyDebasish)
 
