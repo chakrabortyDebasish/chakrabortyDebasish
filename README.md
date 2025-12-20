@@ -13,7 +13,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
 
 <br clear="center" />
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🌐 Social Platforms</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chakrabortydebasish/">
