@@ -1,4 +1,10 @@
 # 👋 Hi, I’m Debasish Chakraborty
+<div class="section">
+    <h2>Resume</h2>
+    <p>You can view my resume below or download it:</p>
+    <iframe src="resume/DebasishChakraborty.pdf"></iframe>
+    <p><a href="resume/DebasishChakraborty.pdf" download>Download Resume (PDF)</a></p>
+  </div>
 <h5><a href="resume/DebasishChakraborty.pdf" download>Download Resume (PDF)</a></h5>
 <h5><a href="blog.html" >🗒️ Blog </a></h5>
 <img src="./images/octocat.png" width="150" align="left" />
