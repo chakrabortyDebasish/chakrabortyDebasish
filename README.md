@@ -13,20 +13,6 @@ processing **50M+ records per day** for telecom and marketing analytics use case
 
 <br clear="center" />
 
-<h2 align="center">🌐 Social Platforms</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chakrabortydebasish/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://leetcode.com/dcVoldemort/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/dcraptor">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
-
 ## 🛠️ Skills & Technologies
 <table align="center">
   <tr>
@@ -98,6 +84,20 @@ processing **50M+ records per day** for telecom and marketing analytics use case
     </td>
   </tr>
 </table>
+
+<h2 align="center">🌐 Social Platforms</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chakrabortydebasish/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/dcVoldemort/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/dcraptor">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
 ## Stats !!
 
