@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Debasish Chakraborty | <a href="resume/DebasishChakraborty.pdf" download>Download My Resume (PDF)</a> | <a href="blog.html" >🗒️ Blogs </a>
+## 👋 Hi, I’m Debasish Chakraborty | <a href="resume/DebasishChakraborty.pdf" download>Download My Resume<img src="https://img.icons8.com/color/48/000000/pdf.png" width="20"/></a> | <a href="blog.html" >🗒️ Blogs </a>
 
 <img src="./images/octocat.png" width="150" align="left" />
 
