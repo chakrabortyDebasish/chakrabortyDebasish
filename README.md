@@ -17,17 +17,17 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   <a href="https://www.linkedin.com/in/chakrabortydebasish/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://x.com/saffronsachiko">
-    <img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.youtube.com/@saffronsachiko">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://leetcode.com/dcVoldemort/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.hackerrank.com/dcraptor">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.youtube.com/@saffronsachiko">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://x.com/saffronsachiko">
+    <img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.instagram.com/saffronsachiko/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"/>
