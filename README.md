@@ -85,12 +85,12 @@ processing **50M+ records per day** for telecom and marketing analytics use case
   </tr>
 </table>
 
-<h2 align="center">🌐 Social Platforms</h2>
+## Stats !!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&layout=compact&theme=transparent)](https://github.com/chakrabortyDebasish)
+
+<h2 align="center">🌐 Social Platforms</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/chakrabortydebasish/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://leetcode.com/dcVoldemort/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
   </a>
@@ -98,7 +98,3 @@ processing **50M+ records per day** for telecom and marketing analytics use case
     <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
-
-## Stats !!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&layout=compact&theme=transparent)](https://github.com/chakrabortyDebasish)
