@@ -9,7 +9,7 @@ I work across **Programming**, **Big Data**, and **ETL**, designing and building
 
 Alongside technical expertise, I bring strong **Soft Skills**-**problem-solving, collaboration, and critical thinking**-helping teams turn data into actionable strategies.
 
-For me, ***<u>data isn’t just numbers; it’s a story waiting to be uncovered***, and I love being the one to reveal it.
+For me, ***data isn’t just numbers; it’s a story waiting to be uncovered***, and I love being the one to reveal it.
 
 When I’m not immersed in data😉, apart from playing chess ♟️ and paintig canvas 🎨 you’ll find me **exploring new ideas, optimizing workflows, and thinking about ways to make systems more elegant and impactful**.
 <br clear="center" />
