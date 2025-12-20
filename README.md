@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Debasish Chakraborty welcome to my GitHub page
 
-<img src="./images/octocat.png" width="200" align="left" />
+<img src="./images/octocat.png" width="150" align="left" />
 
 ### Senior Data Engineer | Cloud Data Engineer
 
