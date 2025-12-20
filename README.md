@@ -13,6 +13,13 @@ processing **50M+ records per day** for telecom and marketing analytics use case
 
 <br clear="center" />
 
+<div class="section">
+    <h2>Resume</h2>
+    <p>You can view my resume below or download it:</p>
+    <iframe src="resume/DebasishChakraborty.pdf"></iframe>
+    <p><a href="resume/DebasishChakraborty.pdf" download>Download Resume (PDF)</a></p>
+  </div>
+
 ## 🛠️ Skills & Technologies
 <table align="center">
   <tr>
