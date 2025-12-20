@@ -11,6 +11,8 @@ and analytics-ready data warehouses using Spark, Kafka, Airflow, AWS, and GCP.
 I have a proven track record of delivering reliable, secure, and scalable data systems,
 processing **50M+ records per day** for telecom and marketing analytics use cases.
 
+<br clear="center" />
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
