@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Debasish Chakraborty
-
+<h5><a href="resume/DebasishChakraborty.pdf" download>Download Resume (PDF)</a></h5>
+<h5><a href="blog.html" >🗒️ Blog </a></h5>
 <img src="./images/octocat.png" width="150" align="left" />
 
 ### Senior Data Engineer | Cloud Data Engineer
@@ -12,13 +13,6 @@ I have a proven track record of delivering reliable, secure, and scalable data s
 processing **50M+ records per day** for telecom and marketing analytics use cases.
 
 <br clear="center" />
-
-<div class="section">
-    <h2>Resume</h2>
-    <p>You can view my resume below or download it:</p>
-    <iframe src="resume/DebasishChakraborty.pdf"></iframe>
-    <p><a href="resume/DebasishChakraborty.pdf" download>Download Resume (PDF)</a></p>
-  </div>
 
 ## 🛠️ Skills & Technologies
 <table align="center">
