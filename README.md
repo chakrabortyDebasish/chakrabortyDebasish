@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Debasish Chakraborty welcome to my GitHub page
+# 👋 Hi, I’m Debasish Chakraborty
 
 <img src="./images/octocat.png" width="150" align="left" />
 
