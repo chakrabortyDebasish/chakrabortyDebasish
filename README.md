@@ -89,7 +89,7 @@ processing **50M+ records per day** for telecom and marketing analytics use case
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&layout=compact&theme=transparent)](https://github.com/chakrabortyDebasish)
 
-<h2 align="center">🌐 Social Platforms</h2>
+<h2 align="center">🌐 Coding Platforms</h2>
 <p align="center">
   <a href="https://leetcode.com/dcVoldemort/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
