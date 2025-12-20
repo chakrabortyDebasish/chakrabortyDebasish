@@ -89,16 +89,16 @@ processing **50M+ records per day** for telecom and marketing analytics use case
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrabortyDebasish&layout=compact&theme=transparent)](https://github.com/chakrabortyDebasish)
 
-<h2 align="center">🌐 Coding Platforms</h2>
+<h2 align="center"> 🦖 Coding Platforms</h2>
 <p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/saffronsachiko/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=GeeksforGeeks&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="https://leetcode.com/dcraptor/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.hackerrank.com/dcraptor/">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/saffronsachiko/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=GeeksforGeeks&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://codeforces.com/profile/dcraptor/">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=Codeforces&logoColor=white&style=for-the-badge"/>
