@@ -1,18 +1,18 @@
-## 👋 Hi, I’m Debasish Chakraborty | <a href="resume/DebasishChakraborty.pdf" download>Download My Resume<img src="https://img.icons8.com/color/48/000000/pdf.png" width="20"/></a> | <a href="blog.html" >🗒️ Blogs </a>
+## 👋 Hi, I’m `Debasish Chakraborty` | <a href="resume/DebasishChakraborty.pdf" download>Download My Resume<img src="https://img.icons8.com/color/48/000000/pdf.png" width="20"/></a> | <a href="blog.html" >🗒️ Blogs </a>
 
-<img src="./images/octocat.png" width="150" align="left" />
+<img src="./images/octocat.png" width="150" align="right" />
 
-### Senior Data Engineer | Cloud Data Engineer
+### Data Engineer
 
-I design, build, and operate large-scale batch and real-time data platforms.
-My expertise lies in cloud-native ETL architectures, high-throughput data ingestion,
-and analytics-ready data warehouses using Spark, Kafka, Airflow, AWS, and GCP.
+I am passionate about **transforming complex data into meaningful insights**.  
+I work across **Programming**, **Big Data**, and **ETL**, designing and building **data platforms that are reliable, scalable, and maintainable**. Solving challenges in **Cloud Platforms** and **DevOps**, ensuring that **data systems** are **efficient, secure, and continuously improving**. Managing and structuring **Databases** to make information **accessible and actionable** is at the heart of my work.
 
-I have a proven track record of delivering reliable, secure, and scalable data systems,
-processing **50M+ records per day** for telecom and marketing analytics use cases.
+Alongside technical expertise, I bring strong **Soft Skills**—**problem-solving, collaboration, and critical thinking**—helping teams turn data into actionable strategies.
 
+For me, ***<u>data isn’t just numbers; it’s a story waiting to be uncovered***, and I love being the one to reveal it.
+
+When I’m not immersed in data😉, apart from playing chess ♟️ and paintig canvas 🎨 you’ll find me **exploring new ideas, optimizing workflows, and thinking about ways to make systems more elegant and impactful**.
 <br clear="center" />
-
 ## 🛠️ Skills & Technologies
 <table align="center">
   <tr>
