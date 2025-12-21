@@ -58,11 +58,22 @@ header a.back-link:focus {
 
 /* ===== Blog Articles ===== */
 article {
-    margin-bottom: 40px;
+    margin-bottom: 46px;
+    padding-bottom: 6px;
 }
 
 article h2 {
     margin-top: 1.5em;
+}
+
+/* ===== Article Date ===== */
+.post-date {
+    display: block;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    font-size: 0.85rem;
+    color: #6b7280; /* soft neutral grey */
+    font-style: italic;
 }
 
 article a {
