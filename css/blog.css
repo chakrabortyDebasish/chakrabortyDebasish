@@ -1,20 +1,64 @@
+/* ===== Layout Base ===== */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     max-width: 800px;
     margin: auto;
-    padding: 20px;
+    padding: 120px 20px 110px; /* space for fixed header and fixed footer */
+    color: #222;
+}
+
+/* ===== Header ===== */
+header {
+    position: fixed;
+    top: -30px;
+    left: 0;
+    right: 0;
+    /* swapped: use previous footer's dark gradient for header */
+    background: linear-gradient(180deg, #0b1220 0%, #0f172a 100%);
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    padding: 18px 20px;
+    box-shadow: 0 6px 18px rgba(2,6,23,0.18);
+    z-index: 1000;
+    text-align: center;
+    color: #e6eef8;
 }
 
 header h1 {
-    font-size: 2em;
-    margin-bottom: 5px;
+    font-size: 1.9em;
+    margin-bottom: 6px;
 }
 
 header a {
     text-decoration: none;
     color: #0077b6;
     font-size: 0.9em;
+}
+
+/* Back to Portfolio link: greyish-white by default, full white on hover */
+header a.back-link {
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+    padding: 4px 8px;
+    border-radius: 6px;
+    transition: color 0.15s ease, background 0.12s ease;
+}
+
+header a.back-link:hover,
+header a.back-link:focus {
+    color: #ffffff;
+    background: rgba(255,255,255,0.04);
+}
+
+/* make back-link bold on hover/focus */
+header a.back-link:hover,
+header a.back-link:focus {
+    font-weight: 700;
+}
+
+/* ===== Blog Articles ===== */
+article {
+    margin-bottom: 40px;
 }
 
 article h2 {
@@ -29,3 +73,62 @@ article a {
 article a:hover {
     text-decoration: underline;
 }
+
+/* ===== Footer ===== */
+.site-footer {
+    /* swapped: use previous header's light gradient for footer */
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: -15px;
+    margin-top: 0;
+    padding: 14px 15px;
+    border-top: 1px solid rgba(0,0,0,0.06);
+    background: #50C878; /* updated per request */
+    text-align: center;
+    font-size: 0.9rem;
+    color: #ffffff;
+    z-index: 999;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.06);
+}
+
+.site-footer p {
+    margin: 0 0 8px 0;
+}
+
+/* ===== Social Icons ===== */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+}
+
+.social-icons a {
+    color: #ffffff; /* icons white by default */
+}
+
+.social-icons svg {
+    width: 26px;
+    height: 26px;
+    stroke: currentColor;
+    fill: none;
+    stroke-width: 2;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.social-icons a:hover svg {
+    transform: translateY(-3px);
+}
+
+/* ===== Content Width Safety ===== */
+main, section#blog-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* ===== Brand Hover Colors ===== */
+
+/* LinkedIn → Blue */
+.social-icons a.si-linkedin:hover svg { color: #0A66C2; }
+.social-icons a.si-x:hover svg { color: #000000; }
+.social-icons a.si-youtube:hover svg { color: #FF0000; }
