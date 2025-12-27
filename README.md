@@ -7,7 +7,7 @@
 I am passionate about **transforming complex data into meaningful insights**.  
 I work across **Programming**, **Big Data**, and **ETL**, designing and building **data platforms that are reliable, scalable, and maintainable**. Solving challenges in **Cloud Platforms** and **DevOps**, ensuring that **data systems** are **efficient, secure, and continuously improving**. Managing and structuring **Databases** to make information **accessible and actionable** is at the heart of my work.
 
-Alongside technical expertise, I bring strong **soft skills****problem solving, collaboration, and critical thinking**helping teams turn data into actionable strategies.
+Alongside technical expertise, I bring strong **soft skills problem solving, collaboration, and critical thinking**helping teams turn data into actionable strategies.
 
 For me, ***data isn’t just numbers; it’s a story waiting to be uncovered***, and I love being the one to reveal it.
 
